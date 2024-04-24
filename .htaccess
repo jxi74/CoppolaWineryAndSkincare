@@ -18,7 +18,7 @@ RewriteRule . /coppola/index.php [L]
 # The directives (lines) between "BEGIN Simply Static" and "END Simply Static" are
 # dynamically generated, and should only be modified via WordPress filters.
 # Any changes to the directives between these markers will be overwritten.
-<Files "E:\xampp\htdocs\coppola/wp-content/uploads\simply-static\0b3e1407e1beb180312889e34c4fe4eb-debug.txt">
+<Files "E:\xampp\htdocs\coppola/wp-content/uploads\simply-static\9b92ecee9112e1c8a5735ba330889f9c-debug.txt">
 require all denied
 require host localhost
 </Files>
